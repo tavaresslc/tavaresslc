@@ -10,4 +10,4 @@ Meu nome é Lucas Soares Tavares, sou desenvolvedor e estudante de Ciencia da Co
 
 ## Tecnologias
 
-HTML5 | CSS3 | JAVASCRIP | REACTJS | SWIFT | SWIFTUI | C | C++ 
+HTML5 | CSS3 | JAVASCRIPT | REACTJS | SWIFT | SWIFTUI | C | C++ 
