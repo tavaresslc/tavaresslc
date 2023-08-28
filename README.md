@@ -2,7 +2,7 @@
 
 Meu nome é Lucas Soares Tavares, sou desenvolvedor e estudante de Ciencia da Computação.
 
-[Portifólio]()
+[Portfólio]()
 
 [LinkedIn](https://www.linkedin.com/in/lucas-tavares-764691279)
 
