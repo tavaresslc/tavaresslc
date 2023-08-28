@@ -8,6 +8,6 @@ Meu nome é Lucas Soares Tavares, sou desenvolvedor e estudante de Ciencia da Co
 
 [lucastavares004@gmail.com](lucastavares004@gmail.com)
 
-Tecnologias
+## Tecnologias
 
 HTML5 | CSS3 | JAVASCRIP | REACTJS | SWIFT | SWIFTUI | C | C++ 
