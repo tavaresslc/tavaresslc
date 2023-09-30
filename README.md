@@ -3,7 +3,7 @@
 Meu nome é Lucas Soares Tavares, sou desenvolvedor e estudante de Ciencia da Computação.
 
 <div>
-<a href="https://tavaresslc.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-%23007?style=for-the-badge&logo=portifolio&logoColor=black"target="_blank"></a>
+<a href="https://tavaresslc.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-%23007?style=for-the-badge&logo=portifolio&logoColor=black"target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-tavares-764691279" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "lucastavares004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><br>
